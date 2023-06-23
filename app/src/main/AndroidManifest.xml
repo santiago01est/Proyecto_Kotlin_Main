@@ -15,7 +15,7 @@
         android:theme="@style/Theme.Base_MVVM_KT"
         tools:targetApi="31">
         <activity
-            android:name="com.base_project.base_mvvm_kt.ui.viewmodel.MainActivity"
+            android:name="com.base_project.base_mvvm_kt.ui.view.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
